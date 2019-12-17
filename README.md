@@ -29,9 +29,10 @@ README.MD << Read a file first! For you know how to download file, clone, and ev
 
 Update GitHub : 18:25, 5 January 2020!
 Update Message : Unknown
-File Release : ``Queue.js`` << A Queue for MusicBot!
-               ``stop.js`` << A Stop Cmd for MusicBot 
-               ``skip.js`` << A Skip CMD's for MusicBot
+File Release : ``ban.js << A Ban Command For glitch!
+               ``rps.js`` << A RPS CMD
+               ``report.js`` << A Report CMD
+
 Will Release : 15 January 2020.
 👍 Support My Bot! 👍
 
