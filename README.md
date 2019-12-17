@@ -20,4 +20,25 @@ help.js : Will Release!
 
 ``Support Server``
 DM's me ``! Hacker Gamma#6422`` If need join a support server!
-# Creator : Hacker Gamma 
+
+``Blackshark Info``
+
+README.MD << Read a file first! For you know how to download file, clone, and everything
+
+``Update Time``
+
+Update GitHub : 18:25, 5 January 2020!
+Update Message : Unknown
+File Release : ``Queue.js`` << A Queue for MusicBot!
+               ``stop.js`` << A Stop Cmd for MusicBot 
+               ``skip.js`` << A Skip CMD's for MusicBot
+Will Release : 15 January 2020.
+👍 Support My Bot! 👍
+
+``Features``
+Music : Can Play a song!
+Moderation : Can Ban,Kick,Mute a player!
+Info : To see a info bot!
+
+``Thanks For``
+U All Support My GitHub And Bot For Continues to grow! 
