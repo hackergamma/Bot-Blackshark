@@ -1,5 +1,5 @@
 # Bot-Blackshark
-# Discord Bot List
+
 Readme!
 ``How To Install a file?``
 Click "Clone Or Download" 
@@ -20,3 +20,4 @@ help.js : Will Release!
 
 ``Support Server``
 DM's me ``! Hacker Gamma#6422`` If need join a support server!
+# Creator : Hacker Gamma 
